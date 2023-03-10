@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "duumyperson1",
+        "mail": "dummyuser1@gmail.com",
+        "password": "ABCy1254#"
+    },
+    {
+        "id": 2,
+        "name": "duumyperson2",
+        "mail": "dummyuser2@gmail.com",
+        "password": "ABCy12545@"
+    },
+    {
+        "id": 3,
+        "name": "duumyperson3",
+        "mail": "dummyuser@gmail.com",
+        "password": "ABCy1+74545@"
+    },
+    {
+        "name": "duumyperson1",
+        "mail": "dummyuser7@gmail.com",
+        "password": "ABCy1254#",
+        "id": 4
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "post": "hello everyone this is my first post 1st person",
+        "likes": [],
+        "comments": [],
+        "userId": 1,
+        "postId": 1
+    },
+    {
+        "post": "hello",
+        "likes": [],
+        "comments": [],
+        "userId": 1,
+        "postId": 5
+    },
+    {
+        "post": "hello all",
+        "likes": [],
+        "comments": [],
+        "userId": 1,
+        "postId": 6
+    },
+    {
+        "post": "hello everyone this is my first post 2nd person",
+        "likes": [],
+        "comments": [
+            {
+                "id": 1,
+                "comment": "best"
+            }
+        ],
+        "userId": 2,
+        "postId": 2
+    },
+    {
+        "post": "hello",
+        "likes": [],
+        "comments": [
+            {
+                "commentId": 1,
+                "comment": " nice 1"
+            },
+            {
+                "commentId": 1,
+                "comment": " nice 1"
+            }
+        ],
+        "userId": 1,
+        "postId": 4
+    },
+    {
+        "post": "hello",
+        "likes": [],
+        "comments": [],
+        "userId": 1,
+        "postId": 7
+    },
+    {
+        "post": "hello",
+        "likes": [],
+        "comments": [],
+        "userId": 1,
+        "postId": 8
+    },
+    {
+        "post": "hello",
+        "likes": [],
+        "comments": [],
+        "userId": 1,
+        "postId": 9
+    },
+    {
+        "post": "hello",
+        "likes": [
+            1
+        ],
+        "comments": [
+            {
+                "commentId": 1,
+                "comment": " woww"
+            },
+            {
+                "commentId": 1,
+                "comment": " woww"
+            },
+            {
+                "commentId": 1
+            }
+        ],
+        "userId": 3,
+        "postId": 3
+    }
+]
